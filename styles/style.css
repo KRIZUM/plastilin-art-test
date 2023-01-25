@@ -379,17 +379,6 @@ nav li:hover > .submenu {
     margin: 15px 0 10px 11px;
 }
 
-.arrow_in_block {
-    width: 10px;
-    transform: rotate(180deg);
-    position: absolute;
-    right: 5px;
-    color: black;
-    margin-top: 8px;
-    justify-content: center;
-    align-items: center;
-}
-
 .submenu a:hover img {
     transform: rotate(360deg) scale(200%);
     justify-content: center;
